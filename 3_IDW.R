@@ -1,3 +1,7 @@
+######NEED TO MAKE A CHANGE #############
+##ADDED DESCRIPTIONS#####
+
+
 #idw_para_munis <- function(df, munis, power, max_radius, max_vecinos) {
   # 1. Preparar los datos espaciales
   puntos <- df %>%
